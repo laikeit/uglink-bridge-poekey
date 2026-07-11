@@ -9,7 +9,7 @@ USERNAME = "zhan"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
-id = "6b54c06aa3b641cd8708e6e56629bfcf"  # Replace with your actual KV namespace ID from Cloudflare dashboard
+id = "6a6de411b1244c8db4599bf136113fb4"  # Replace with your actual KV namespace ID from Cloudflare dashboard
 
 [observability.logs]
 enabled = true
