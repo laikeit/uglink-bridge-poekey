@@ -3,7 +3,7 @@ main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-BASE_URL = "https://dxp4800plus-d77.cn49.ug.link"
+BASE_URL = "https://app-18000-dxp4800plus-d77.cn49.ugdocker.link/admin"
 PORT = "18000"
 USERNAME = "zhan"
 
